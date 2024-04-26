@@ -1,0 +1,4 @@
+[submodule "iscam"]
+	path = iscam
+	url = git@git.vauxoo.com:vauxoo/iscam.git
+	branch = 17.0
